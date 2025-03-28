@@ -15,4 +15,11 @@ int main() {
         case 1:
             printf("betch cse\n");
             break;
+	    case 2: {
+            int a, b;
+            printf("Enter two numbers to add:\n");
+            scanf("%d %d", &a, &b);
+            printf("btech aiml: %d\n", a + b);
+            break;
+        }
 
