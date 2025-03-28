@@ -14,10 +14,10 @@ int main() {
             printf("Btech cse,at amity university\n");
             break;
 	    case 3:
-            printf("Ece,at amity university\n");
+            printf("Ece,at amity universityti\n");
             break;
 	   case 4:
-            printf("mechanical\n");
+            printf("mechanical,at amity university\n");
             break;
 	    default:
             printf("Invalid choice. Please try again with a number between 1 and 4.\n");
