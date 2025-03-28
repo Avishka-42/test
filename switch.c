@@ -16,3 +16,6 @@ int main() {
 	    case 3:
             printf("Ece\n");
             break;
+	   case 4:
+            printf("mechanical\n");
+            break;
