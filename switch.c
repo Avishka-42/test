@@ -13,3 +13,6 @@ int main() {
 	    case 2:
             printf("Btech cse\n");
             break;
+	    case 3:
+            printf("Ece\n");
+            break;
