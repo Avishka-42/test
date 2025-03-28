@@ -3,7 +3,7 @@
 int main() {
     int choice;
 
-    printf("Enter a number (1-3): ");
+    printf("Enter a number (1-4): ");
     scanf("%d", &choice);
 
     switch (choice) {
@@ -19,3 +19,9 @@ int main() {
 	   case 4:
             printf("mechanical\n");
             break;
+	    default:
+            printf("Invalid choice. Please try again with a number between 1 and 4.\n");
+            break;
+    }
+
+    return 0;
