@@ -8,10 +8,10 @@ int main() {
 
     switch (choice) {
         case 1:
-            printf("Btech aiml,amity university\n");
+            printf("Btech aiml, at amity university\n");
             break;
 	    case 2:
-            printf("Btech cse\n");
+            printf("Btech cse,at amity university\n");
             break;
 	    case 3:
             printf("Ece\n");
