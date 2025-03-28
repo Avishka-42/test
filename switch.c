@@ -8,5 +8,8 @@ int main() {
 
     switch (choice) {
         case 1:
-            printf("You selected option 1.\n");
+            printf("Btech aiml\n");
+            break;
+	    case 2:
+            printf("Btech cse\n");
             break;
