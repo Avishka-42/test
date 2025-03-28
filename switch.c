@@ -8,13 +8,13 @@ int main() {
 
     switch (choice) {
         case 1:
-            printf("Btech aiml, at amity university\n");
+            printf("Btech aiml,at amity university\n");
             break;
 	    case 2:
             printf("Btech cse,at amity university\n");
             break;
 	    case 3:
-            printf("Ece\n");
+            printf("Ece,at amity university\n");
             break;
 	   case 4:
             printf("mechanical\n");
