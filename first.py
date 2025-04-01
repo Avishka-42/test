@@ -17,16 +17,30 @@ a = int(input('enter the value of a'))
 b = int(input('enter the value of b'))
 c = a+b
 print(c)
-c=a-b
+c = a-b
 print(c)
-c=a*b
+c = a*b
 print(c)
-c=a/b
+c = a/b
 print(c)
-c=a%b
+c = a%b
 print(c)
-c=a||b
+c = a||b
 print(c)
-c=a**b
+c = a**b
 print(c)
+
+assignment operator.
+
+a = int(input('enter the value of a'))
+a = a+5
+print(a)
+a = a-5
+print(a)
+a = a*5
+print(a)
+a = a%5
+print(a)
+a = a||5
+print(a) 
 
