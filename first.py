@@ -11,3 +11,22 @@ n = int(input('enter the no'))
 s = n*n
 print(s)
 
+arithemetic operators.
+
+a = int(input('enter the value of a'))
+b = int(input('enter the value of b'))
+c = a+b
+print(c)
+c=a-b
+print(c)
+c=a*b
+print(c)
+c=a/b
+print(c)
+c=a%b
+print(c)
+c=a||b
+print(c)
+c=a**b
+print(c)
+
