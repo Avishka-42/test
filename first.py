@@ -58,3 +58,12 @@ num1 = float(input("enter first no:"))
 operator = input("enter operator(+,-,*,/):")
 num2 = float(input("enter second no:"))
 match operator:
+case "+":
+result = num1+num2
+case "-":
+result = num1-num2
+case "*":
+result = num1*num2
+case "/":
+if num2 ! = 0:
+result = num1/num2
