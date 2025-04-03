@@ -67,3 +67,12 @@ result = num1*num2
 case "/":
 if num2 ! = 0:
 result = num1/num2
+else:
+print("error:division by zero is not allowed!")
+return
+case _:
+print("error:invalid operator!")
+return
+print(f "result:{result}")
+calculator()
+
