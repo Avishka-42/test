@@ -44,3 +44,8 @@ print(a)
 a = a||5
 print(a) 
 
+input two numbers and swap them.
+
+name1 = str(input("enter the name1"))
+name2 = str(input("enter the name2"))
+
