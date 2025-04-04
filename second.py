@@ -20,3 +20,13 @@ if num%2 == 0:
     print("even number")
 else:
     print("odd number")
+
+
+calculate the cube root of all odd numbers upto 10 also find sum of them.
+
+i=0
+sum=0
+while i<=10:
+    print("its even",i)
+else:
+    c = i**3
