@@ -30,3 +30,7 @@ while i<=10:
     print("its even",i)
 else:
     c = i**3
+    print("its odd",e)
+    sum = sum+c
+    i+ = 1
+    print(sum)
