@@ -33,4 +33,5 @@ else:
     print("its odd",e)
     sum = sum+c
     i+ = 1
-    print(sum)
+    print (sum)
+
