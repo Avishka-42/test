@@ -9,4 +9,11 @@ def prime_factors(n):
     return factors
   
 
+wheather the no is even or odd.
 
+while true:
+num = int(input("enter a number(0 to exit):"))
+if num == 0:
+    print("exiting the program.")
+    break
+if num%2 == 0:
