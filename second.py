@@ -45,3 +45,13 @@ return n*factorial(n-1)
 num = int(input("enter a no:"))
 result = factorial(num)
 print(f"the factorial of {num} is {result}")
+
+calculate positive integer using function.
+
+def sum_positive_integer(n):
+    total = 0
+    for i in range(1,n+1):
+        total + = i
+        return total
+    n = int(input("enter the no of positive integers to sum"))
+
