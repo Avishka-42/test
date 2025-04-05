@@ -54,4 +54,5 @@ def sum_positive_integer(n):
         total + = i
         return total
     n = int(input("enter the no of positive integers to sum"))
-
+result = sum_positive_integer(n)
+print(f"the sum of the first {n} positive integers is {result}")
