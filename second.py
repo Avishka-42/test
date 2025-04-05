@@ -35,3 +35,10 @@ else:
     i+ = 1
     print (sum)
 
+factorial of a number using function.
+
+def factorial(n):
+    if n==0 or n==1;
+    return 1
+else:
+
