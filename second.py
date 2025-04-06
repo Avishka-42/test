@@ -56,3 +56,12 @@ def sum_positive_integer(n):
     n = int(input("enter the no of positive integers to sum"))
 result = sum_positive_integer(n)
 print(f"the sum of the first {n} positive integers is {result}")
+
+fibonacci method.
+
+def fibonacci(n):
+    a, b = 0, 1
+    while a < n:
+        print(a, end=" ")
+
+
