@@ -84,3 +84,8 @@ if is_prime(num):
 else:
     print(f"{num} is not a prime number.")
 
+Reversing of a string.
+
+text = "Python"
+reversed_text = text[::-1]
+
