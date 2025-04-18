@@ -101,3 +101,4 @@ def count_vowels(string):
     vowels = 'aeiou'
     count = sum(1 for char in string.lower() if char in vowels)
     return count 
+print(count_vowels("Hello World"))
