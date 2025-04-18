@@ -107,3 +107,5 @@ Basic dictionary operstion.
 
 data = {"name": "Alice", "age": 25, "city": "New York"}
 print(data.keys())
+print(data.values())  
+print(data.get("name")) 
