@@ -88,4 +88,9 @@ Reversing of a string.
 
 text = "Python"
 reversed_text = text[::-1]
-print(reversed_text)  
+print(reversed_text) 
+
+Generating a list of squares.
+
+squares = [x**2 for x in range(1, 11)]
+print(squares)
