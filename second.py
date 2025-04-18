@@ -94,3 +94,9 @@ Generating a list of squares.
 
 squares = [x**2 for x in range(1, 11)]
 print(squares)
+
+Counting vowels in a string.
+
+def count_vowels(string):
+    vowels = 'aeiou'
+    
