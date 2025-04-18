@@ -102,3 +102,8 @@ def count_vowels(string):
     count = sum(1 for char in string.lower() if char in vowels)
     return count 
 print(count_vowels("Hello World"))
+
+Basic dictionary operstion.
+
+data = {"name": "Alice", "age": 25, "city": "New York"}
+print(data.keys())
