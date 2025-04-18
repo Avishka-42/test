@@ -99,4 +99,5 @@ Counting vowels in a string.
 
 def count_vowels(string):
     vowels = 'aeiou'
-    
+    count = sum(1 for char in string.lower() if char in vowels)
+    return count 
